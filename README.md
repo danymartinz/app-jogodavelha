@@ -1,16 +1,4 @@
-# myapp
+# Atividade 4 - Programa Jogo da velha na WEB
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Programa Jogo da Velha:
+Nessa atividade é apresentado o passo-a-passo para criar um programa que mostra os comandos para gerenciar entrada e saída de dados, bem como as estruturas de dados necessárias para criação de procedimentos de gerenciamento e processamento dos dados necessários para criação de um Jogo da Velha com opção de jogar com o computador ou com outro jogador humano.
